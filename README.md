@@ -1,1 +1,1 @@
-# oden-project
+# oden-recipes
